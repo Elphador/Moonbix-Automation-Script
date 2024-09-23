@@ -1,4 +1,8 @@
 # Moonbix-Automation-Script
-Moonbix Telegram mini app automation using python
+Binance Moonbix Telegram mini app automation using python
+
+Authentication
+Task Claim 
+Game play
 
 telegram channel @whywetap
